@@ -1,0 +1,21 @@
+
+COVER PAGE
+Title: AI in Healthcare
+
+INTRODUCTION
+Some current applications of AI in healthcare include diagnostics, treatment protocol development, drug development, personalized medicine, and patient monitoring and care. AI is also being used to assist with triage and interpretation of radiographs, which are the most commonly performed imaging tests in radiology. Additionally, AI is being applied to practices such as chatbots for patient care, text-to-image models for medical imaging, and text-to-video models for medical education and trainin
+
+KEY FINDINGS
+Some current applications of AI in healthcare include diagnostics, treatment protocol development, drug development, personalized medicine, and patient monitoring and care. AI is also being used to assist with triage and interpretation of radiographs, which are the most commonly performed imaging tests in radiology. Additionally, AI is being applied to practices such as chatbots for patient care, text-to-image models for medical imaging, and text-to-video models for medical education and training.
+
+CHALLENGES
+- Privacy issues
+- Cost
+- Ethics
+
+FUTURE SCOPE
+- Better AI
+- Automation
+
+CONCLUSION
+AI is transforming industries.

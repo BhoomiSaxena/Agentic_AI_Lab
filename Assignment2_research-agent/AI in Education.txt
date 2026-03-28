@@ -1,0 +1,27 @@
+
+COVER PAGE
+Title: AI in Education
+
+INTRODUCTION
+Question: Research the topic: AI in Education
+Thought: To research the topic of AI in Education, I should first look for general information about AI in the educational sector.
+Action: wikipedia
+Action Input: AI in Education
+
+KEY FINDINGS
+Question: Research the topic: AI in Education
+Thought: To research the topic of AI in Education, I should first look for general information about AI in the educational sector.
+Action: wikipedia
+Action Input: AI in Education
+
+CHALLENGES
+- Privacy issues
+- Cost
+- Ethics
+
+FUTURE SCOPE
+- Better AI
+- Automation
+
+CONCLUSION
+AI is transforming industries.
